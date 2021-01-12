@@ -1,0 +1,95 @@
+body{
+    color: #929fa5;
+}
+.h-top {
+    background-color: #08526d;
+    color: #fff;
+}
+.h-link a{
+    display: inline-block;
+    padding: 3px 8px;
+    margin-left: 50px;
+    color: #fff;
+    transition: 2s;
+    text-decoration: none;
+    border: 1px solid transparent;
+}
+.h-link a:hover{
+        border: 1px solid red;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{
+    color: red;
+}
+.carousel-indicators li{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: rgba(0,0,0, .4);
+    border: 2px solid white;
+}
+ul.navbar-nav.ml-auto.text-info li.nav-item {
+    margin-left: 32px;
+}
+.great .icon i{
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    padding-top: 18px;
+    background-color: red;
+    border-radius: 50%;
+    font-size: 25px;
+    color: #fff;
+}
+.great h3{
+    color: #08526d;
+    text-align: center;
+}
+.great .icon{
+    text-align: center;
+}
+.company {
+    background-color: #f0f5f7;
+    padding: 100px 0px;
+}
+.company p{
+    line-height: 30px;
+}
+.carousel-caption h1{
+    font-size: 3.5rem;
+    margin-bottom: 180px;
+    text-align: left;
+}
+li.nav-item a.nav-link {
+    float: right;
+    
+    font-size: 17px;
+    font-weight: 800;
+}
+/* end navber */
+.footer-icon i{
+    color: #687074;
+    font-size: 30px;
+    margin-left: 10px;
+}
+.you-think button{
+    color: white;
+    border: 2px solid white;
+    padding: 4px 10px;
+}
+.you-think {
+    color: white;
+}
+.happy .icon i{
+    font-size: 70px;
+    color: #08526d;
+}
+.happy {
+    color: #08526d;
+    padding: 30px;
+}
+.image img{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+}
+/* end footer */
